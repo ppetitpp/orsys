@@ -1,0 +1,5 @@
+com\dev4tests\junit\examen\EvaluateurNiveau.class
+com\dev4tests\junit\examen\Evaluateur.class
+com\dev4tests\junit\examen\LigneNotesExamen.class
+com\dev4tests\junit\examen\EvaluateurNiveau$ValeurHorsBornesException.class
+com\dev4tests\junit\examen\EvaluateurNiveau$MauvaisFormatException.class
